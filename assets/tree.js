@@ -198,7 +198,7 @@ function update(source) {
 
     if (target.nodeName.toUpperCase() === 'TEXT') {
       var text = target.innerHTML.trim();
-      window.open('https://developer.apple.com/search/?q=' + text + '&platform=iOS');
+      window.open('https://developer.apple.com/search/?q=' + text + '&platform=OS%20X');
     }
   });
 }

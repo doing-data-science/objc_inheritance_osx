@@ -85,7 +85,7 @@ d3.json('data/inheritance.json', function(error, root) {
       var text = target.innerHTML.trim();
 
       if (toggle) {
-        window.open('https://developer.apple.com/search/?q=' + text + '&platform=osx');
+        window.open('https://developer.apple.com/search/?q=' + text + '&platform=OS%20X');
         return;
       }
 
