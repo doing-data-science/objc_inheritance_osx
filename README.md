@@ -2,4 +2,4 @@
 
 > runtime for osx
 
-- [objc inheritance for iOS](http://xudafeng.github.io/objc_inheritance/tree.html)
+- [objc inheritance for iOS](//xudafeng.github.io/objc_inheritance/tree.html)
